@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Python
-=======
 RUBY
->>>>>>> testing
