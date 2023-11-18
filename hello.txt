@@ -1,1 +1,7 @@
 hello git!
+<type>(scope): subject <BLANK LINE> body <BLANK LINE> footer
+
+## type代表提交类型，scope代表影响范围，subject是提交信息的简短描述
+## body是详细描述，footer是一些元数据，比如关联的issue、PR等。
+
+
