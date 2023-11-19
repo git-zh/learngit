@@ -8,4 +8,5 @@ hello git!
 ## style(代码格式的修改，比如缩进、空格等);refactor(代码重构);
 ## test(测试相关修改);chore(其他修改，比如构建流程、辅助工具等)
 
+type: feat/fix/chore/style/docs等
 scope: 影响范围
