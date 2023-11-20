@@ -9,4 +9,4 @@ hello git!
 ## test(测试相关修改);chore(其他修改，比如构建流程、辅助工具等)
 
 type: feat/fix/chore/style/docs等
-scope: 影响范围
+scope: 影响范围, 通常为模块名，功能模块，文件路径等
